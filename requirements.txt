@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-cloud-storage
+diffusers
+torch
+pillow
+transformers
+accelerate 
+scipy 
+safetensors
